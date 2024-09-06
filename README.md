@@ -11,7 +11,8 @@ manejo de variables, cadena,if, for, while
 - ![image](https://github.com/user-attachments/assets/5255a248-ca8a-4e2d-87e5-a113599d7806)
 - ## if else
 - cuando es verdadero
-- ![image](https://github.com/user-attachments/assets/17be41aa-95b3-4d2a-8995-a8b067f6c6c0)
+- ![image](https://github.com/user-attachments/assets/30b208fd-d47c-4ca7-86b7-f23c73c63eb5)
+
 - cuando el caso falso
 - ![image](https://github.com/user-attachments/assets/07982e4a-2a89-4e1f-b536-d9244b477def)
 

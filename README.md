@@ -15,5 +15,21 @@ manejo de variables, cadena,if, for, while
 
 - cuando el caso falso
 - ![image](https://github.com/user-attachments/assets/07982e4a-2a89-4e1f-b536-d9244b477def)
+## ciclo de repeticion while
+- codigo
+- ![image](https://github.com/user-attachments/assets/9fd1f255-6452-48b2-8507-2eba6d0742b7)
+- resultado
+- ![image](https://github.com/user-attachments/assets/5a7893e7-d560-4124-8356-e516d1be3e13)
+
+## ciclo de repeticion for
+- codigo
+- ![image](https://github.com/user-attachments/assets/2d3b9cea-e5ee-4824-846e-2f0f5f78586d)
+- resultado
+- ![image](https://github.com/user-attachments/assets/03e1e08a-0b01-4e39-8a5f-634a51ed1384)
+
+
+
+
+
 
 

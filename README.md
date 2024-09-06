@@ -5,7 +5,14 @@ manejo de variables, cadena,if, for, while
 ## resultado
 - ![image](https://github.com/user-attachments/assets/e36de057-e499-440c-a929-45aaf75c21a3)
 ##manejo de cadenas
--codigo
--![image](https://github.com/user-attachments/assets/5df8d205-cb43-441e-9d5a-3c5f0871fc04)
--resultado
--![image](https://github.com/user-attachments/assets/5255a248-ca8a-4e2d-87e5-a113599d7806)
+- codigo
+- ![image](https://github.com/user-attachments/assets/5df8d205-cb43-441e-9d5a-3c5f0871fc04)
+- resultado
+- ![image](https://github.com/user-attachments/assets/5255a248-ca8a-4e2d-87e5-a113599d7806)
+- ## if else
+- cuando es verdadero
+- ![image](https://github.com/user-attachments/assets/17be41aa-95b3-4d2a-8995-a8b067f6c6c0)
+- cuando el caso falso
+- ![image](https://github.com/user-attachments/assets/07982e4a-2a89-4e1f-b536-d9244b477def)
+
+
